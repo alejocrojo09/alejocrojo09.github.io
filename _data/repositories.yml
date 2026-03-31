@@ -7,3 +7,7 @@ github_repos:
   - alejocrojo09/prismg
   - alejocrojo09/wes_prs
   - LoGT-KULeuven/SASpector
+
+external_repos:
+  - name: DAPCy
+    url: https://gitlab.com/uhasselt-bioinfo/dapcy
