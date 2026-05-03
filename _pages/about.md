@@ -17,7 +17,7 @@ I am a bioinformatician and data scientist working at the intersection of genomi
 
 I am particularly interested in translational research: building methods that are not only technically advanced, but also usable, ethical, and impactful in practice. I see emerging technologies like genomics and AI not just as tools, but as forces that shape healthcare and society, raising important questions around responsibility, fairness, and data governance.
 
-Currently, I am a postdoctoral researcher affiliated with KU Leuven, where I work on synthetic data generation and privacy-preserving approaches for genomic and health data. My research explores how we can enable data sharing and innovation without compromising individual privacy—one of the key challenges in modern biomedical research.
+Currently, I am a postdoctoral researcher affiliated with KU Leuven, where I work on synthetic data generation and privacy-preserving approaches for genomic and health data. My research explores how we can enable data sharing and innovation without compromising individual privacy.
 
 I completed my joint PhD at VITO and Hasselt University, focusing on genomic risk prediction and multi-omics analysis of large-scale biobank data. Through my work, I aim to contribute to a future where data-driven healthcare is not only powerful, but also trustworthy and socially responsible.
 
